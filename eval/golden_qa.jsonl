@@ -1,0 +1,22 @@
+{"id": "q01", "question": "How much does a BI-FAST transfer cost?", "expected_doc": "transfers", "expected_section": "BI-FAST", "must_contain": ["2,500"]}
+{"id": "q02", "question": "What should I do if my debit card is stolen?", "expected_doc": "cards", "expected_section": "Lost or stolen", "must_contain": ["block"]}
+{"id": "q03", "question": "What is the daily transfer limit for a Gold account?", "expected_doc": "transfers", "expected_section": "Daily transfer limits", "must_contain": ["100,000,000"]}
+{"id": "q04", "question": "How long does a dispute investigation take?", "expected_doc": "disputes", "expected_section": "Dispute timelines", "must_contain": ["14 working days"]}
+{"id": "q05", "question": "What interest rate does Tabungan Plus pay?", "expected_doc": "savings", "expected_section": "Tabungan Plus", "must_contain": ["3.25%"]}
+{"id": "q06", "question": "Does NusaBank offer mortgages?", "expected_doc": "loans", "expected_section": "Products not offered", "must_contain": ["does not"]}
+{"id": "q07", "question": "How much is the card replacement fee?", "expected_doc": "cards", "expected_section": "Card replacement", "must_contain": ["15,000"]}
+{"id": "q08", "question": "Can I send money to Singapore on the same day?", "expected_doc": "transfers", "expected_section": "International", "must_contain": ["11:00"]}
+{"id": "q09", "question": "What is the minimum placement for a time deposit?", "expected_doc": "savings", "expected_section": "Time deposits", "must_contain": ["5,000,000"]}
+{"id": "q10", "question": "Who guarantees my deposits and up to what amount?", "expected_doc": "savings", "expected_section": "Deposit insurance", "must_contain": ["LPS"]}
+{"id": "q11", "question": "Will NusaBank staff ever ask for my OTP?", "expected_doc": "security", "expected_section": "PIN, OTP", "must_contain": ["never"]}
+{"id": "q12", "question": "How do I reset my ATM PIN?", "expected_doc": "security", "expected_section": "Resetting your PIN", "must_contain": ["Reset PIN"]}
+{"id": "q13", "question": "What is the maximum amount for a KTA personal loan?", "expected_doc": "loans", "expected_section": "KTA", "must_contain": ["200,000,000"]}
+{"id": "q14", "question": "How do I enable overseas card payments?", "expected_doc": "cards", "expected_section": "Online and overseas", "must_contain": ["Security settings"]}
+{"id": "q15", "question": "Is there a penalty for repaying my loan early?", "expected_doc": "loans", "expected_section": "Early repayment", "must_contain": ["3%"]}
+{"id": "q16", "question": "What can I do if my complaint is not resolved?", "expected_doc": "disputes", "expected_section": "Formal complaints", "must_contain": ["OJK"]}
+{"id": "q17", "question": "How much does an RTGS transfer cost?", "expected_doc": "transfers", "expected_section": "RTGS", "must_contain": ["25,000"]}
+{"id": "q18", "question": "What is the age requirement to apply for a personal loan?", "expected_doc": "loans", "expected_section": "Eligibility", "must_contain": ["21"]}
+{"id": "u01", "question": "What is NusaBank's current stock price?", "answerable": false}
+{"id": "u02", "question": "What are the branch opening hours on Sunday?", "answerable": false}
+{"id": "u03", "question": "Can I buy bitcoin in the NusaBank app?", "answerable": false}
+{"id": "u04", "question": "Who is the CEO of NusaBank?", "answerable": false}

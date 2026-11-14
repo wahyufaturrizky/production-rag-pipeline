@@ -1,0 +1,9 @@
+# Release gates for the RAG pipeline. `rag eval` exits 1 if any metric falls below its threshold.
+retrieval:
+  hit_rate_at_k: 0.90      # expected section appears in the top-k retrieved chunks
+  mrr: 0.75                # mean reciprocal rank of the expected section
+answers:
+  answer_accuracy: 0.85    # answerable questions: not refused and contains the key facts
+  citation_accuracy: 0.85  # answers cite a chunk from the expected document
+  grounded_rate: 0.95      # every sentence carries a valid citation
+  refusal_accuracy: 1.0    # unanswerable questions are refused (no hallucinated answers)
